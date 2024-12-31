@@ -1,3 +1,3 @@
 # Amazon-clone
-my first project in css
+my first project in css. 
 Author - Riya Kumari
